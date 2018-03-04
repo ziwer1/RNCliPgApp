@@ -1,0 +1,3 @@
+rootProject.name = 'RNCliPgApp2'
+
+include ':app'
